@@ -6,6 +6,7 @@ This project is utilizing the MERN stack.
 MERN includes four open-source components: MongoDB, Express, React, and Node. js.
 
 ## To utilize the front end of this application enter the following in the terminal:
+
 ### `yarn start`
 
 
@@ -18,6 +19,6 @@ Finally you can mark your task complete and it will cross out your task on the m
 
 ### `Mini Video Example of App Walkthrough`
 
-![](https://giphy.com/gifs/x7oALHYZ4opQwTx11H/html5)
+![](https://media.giphy.com/media/x7oALHYZ4opQwTx11H/giphy.gif)
 
 
